@@ -1,0 +1,183 @@
+canonical_identifier: bkk:krp/KR6d0166/v1
+canonical_location: https://kanripo.org/bkk/KR6d0166/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 四教義
+  identifiers:
+    alt_id:
+    - T46n1929
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T46/T46n1929.xml
+    old_id: T46n1929
+  edition:
+    short: bkk
+editions:
+- short: 甲
+  label: 甲
+  source_xml_id: wit1
+- short: 乙
+  label: 乙
+  source_xml_id: wit2
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: ？
+  label: ？
+  source_xml_id: wit3
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0166_000.yaml, hash: 'sha256:630bbc47e0a87a79a01a67244384db28ac0e3d1dec7b19b3505c0cd6a2f7612d'}
+  - {seq: 1, filename: KR6d0166_001.yaml, hash: 'sha256:089214e4791a175827001a48e4151547da0be8542431194c3faaffc209480e33'}
+  - {seq: 2, filename: KR6d0166_002.yaml, hash: 'sha256:a83c0a6e1ca5f3417e24fcffe5d7c4596cd6bd354c1fbb43c8db6e645562d9bb'}
+  - {seq: 3, filename: KR6d0166_003.yaml, hash: 'sha256:96b1edf906cd7abf96552c3b5d34aaf140625fa7c8df8e8560c0ddd320f7747a'}
+  - {seq: 4, filename: KR6d0166_004.yaml, hash: 'sha256:e8ed4e3492440a434a10fc83361b5d23528d07a9aa5840dfb8b054bb80a54e0b'}
+  - {seq: 5, filename: KR6d0166_005.yaml, hash: 'sha256:6a5d2399c3c9e405394385969604ecddc492773a7b89eab8f97bbf7bcd1d9f85'}
+  - {seq: 6, filename: KR6d0166_006.yaml, hash: 'sha256:357aa414524027536acc4b8ed917c55bdcffdd8671fb5ae80dfb379368865b27'}
+  - {seq: 7, filename: KR6d0166_007.yaml, hash: 'sha256:a4557333549943b72f786d035092f7617a31952ce63225dadedb108543383146'}
+  - {seq: 8, filename: KR6d0166_008.yaml, hash: 'sha256:8465b534a64a2cede154741ff3a32b0ec270babe37e274375be2f3dd6dede9f1'}
+  - {seq: 9, filename: KR6d0166_009.yaml, hash: 'sha256:001e883d08756ac7971d04a81361272e0fdbfe1927545ecfe7ad00bd8e213c3d'}
+  - {seq: 10, filename: KR6d0166_010.yaml, hash: 'sha256:3bc287cc996fde53a7ae104095b4323d158d96b6adb3dbef14f4350f7e3dcdde'}
+  - {seq: 11, filename: KR6d0166_011.yaml, hash: 'sha256:6ebe930e21fd94bc53031ee169b06b0a83e49406355114a1e04e981e3f700f0b'}
+  - {seq: 12, filename: KR6d0166_012.yaml, hash: 'sha256:df895dac733374ca43e5c52239a0c25db740a5fe60ac2d14b85c22fd03d3b7ca'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6d0166_001.markers.yaml, hash: 'sha256:6141d703e48b798191241debf33922fc86e7578fddd6c66dc8745213c35f0fe3'}
+  - {seq: 2, role: markers, filename: assets/KR6d0166_002.markers.yaml, hash: 'sha256:a897241f532299b83a9b1d5551ef0e0d65fae2ffbc86210fc877955344153ff7'}
+  - {seq: 3, role: markers, filename: assets/KR6d0166_003.markers.yaml, hash: 'sha256:7fa3b5b708fd8e41bae0e6e2934c20bc7cbe76a38b89990ed62b4b4e66dd865d'}
+  - {seq: 4, role: markers, filename: assets/KR6d0166_004.markers.yaml, hash: 'sha256:7eaeee7eb65297f0678b62838f88ff0c6bb1d370b18716a45918123332625c52'}
+  - {seq: 5, role: markers, filename: assets/KR6d0166_005.markers.yaml, hash: 'sha256:b0b85bdace292a100aa6912d904c771d7191e1554933a7d307cdf6de88cea63d'}
+  - {seq: 6, role: markers, filename: assets/KR6d0166_006.markers.yaml, hash: 'sha256:aa60586ed7a111896768fcd86e9ea20f671ad7a0b9a25ad288a232d70a90447d'}
+  - {seq: 7, role: markers, filename: assets/KR6d0166_007.markers.yaml, hash: 'sha256:7bd2348e765398335033be5aff12f47e9140a1060df8b6ac32870bb868e3fe7e'}
+  - {seq: 8, role: markers, filename: assets/KR6d0166_008.markers.yaml, hash: 'sha256:2c68c220249bcae3dc946287a556f6613df5565fb66393078d43d4d05c3748df'}
+  - {seq: 9, role: markers, filename: assets/KR6d0166_009.markers.yaml, hash: 'sha256:5008692796cd7ad1f97e5c6b1eba369afa301dfd8b34b5f5a0d759f4d0cf3fcc'}
+  - {seq: 10, role: markers, filename: assets/KR6d0166_010.markers.yaml, hash: 'sha256:96aa32d10b2ab98edb57e7a1c290f48f8324a76757845824a3454250805fe003'}
+  - {seq: 11, role: markers, filename: assets/KR6d0166_011.markers.yaml, hash: 'sha256:492e1cfbb68347b97fd2a9c4f24aa6554fba5bb75a6969df9d12902538b28e64'}
+  - {seq: 12, role: markers, filename: assets/KR6d0166_012.markers.yaml, hash: 'sha256:50b37dd88e127598a622a0f8b00c18e733ac170ca9ac32d41deebfa5bf62ede0'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6d0166_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 6243
+  label: 四教義卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0166_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 5057
+  label: 四教義卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0166_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 3933
+  label: 四教義卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0166_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 5244
+  label: 四教義卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0166_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 4934
+  label: 四教義卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0166_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 6665
+  label: 四教義卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6d0166_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 4854
+  label: 四教義卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6d0166_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 6711
+  label: 四教義卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6d0166_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 5343
+  label: 四教義卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6d0166_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 6271
+  label: 四教義卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6d0166_T_011-juan-start
+    span:
+    - body
+    - 0
+    - 5829
+  label: 四教義卷第十一
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6d0166_T_012-juan-start
+    span:
+    - body
+    - 0
+    - 6935
+  label: 四教義卷第十二
+  type: juan
+  level: 1
+hash: sha256:200fd8b4ed26d846db8d278e1a1e48c84b265ceb2b1d719947771b83e2e8c574
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

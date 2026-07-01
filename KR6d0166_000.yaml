@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6d0166/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 四教義
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T46/T46n1929.xml
+    old_id: T46n1929
+hash: sha256:630bbc47e0a87a79a01a67244384db28ac0e3d1dec7b19b3505c0cd6a2f7612d
